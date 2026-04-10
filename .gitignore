@@ -1,0 +1,15 @@
+# Foldery z plikami wynikowymi (binarkami)
+x64/
+Debug/
+Release/
+
+# Pliki tymczasowe Visual Studio
+.vs/
+*.aps
+*.user
+*.log
+
+# Pliki budowania
+*.obj
+*.exe
+*.pdb
