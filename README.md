@@ -29,4 +29,4 @@ Projekt został skonfigurowany pod środowisko Microsoft Visual Studio.
 
 1. Sklonuj repozytorium:
    ```bash
-   git clone [https://github.com/](https://github.com/)[TWÓJ_NICK]/ExamSystem.git
+   git clone [https://github.com/](https://github.com/)Lesterito/ExamSystem.git
